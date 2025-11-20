@@ -6,7 +6,7 @@ Selection Sort is another popular sorting algorithm taught in most computer scie
 
 Uses Python3.
 
-## Deployment
+## Deployment
 
 Copy `main.py` into the text editor of your choice.  If using terminal, use the command `python3 main.py` to run the code.
 
